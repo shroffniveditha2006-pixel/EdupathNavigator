@@ -105,17 +105,25 @@ npm run genkit:dev
 Open [http://localhost:9002](http://localhost:9002) in your browser to see the app!
 
 ---
+## 🧠 My Contribution
+
+- Developed responsive frontend using React and Next.js
+- Worked on backend integration and API connectivity
+- Collaborated with team members across modules (AI, backend, UI)
+- Contributed to feature implementation, debugging, and testing
+- Played a key role in integrating different components into a working system
+---
 
 ## 🤝 The Team
 
 We are a passionate team of tech pioneers cultivating the future of education:
 
-*   **Rajeswar** - Lead Developer 💻
-*   **MaaTeja** - UI/UX Designer 🎨
-*   **Karunya** - AI Specialist 🧠
-*   **Niveditha** - Frontend Dev 📱
-*   **Harika** - Research 📊
-*   **Priya** - Content Strategy 🛡️
+- **Niveditha (Me)** – Frontend Development, Backend Integration & Collaboration 📱  
+- Rajeswar – Backend Development & System Architecture 💻  
+- MaaTeja – UI/UX Design 🎨  
+- Karunya – AI Model Integration 🧠  
+- Harika – Research & Analysis 📊  
+- Priya – Content Strategy 🛡️  
 
 ---
 
