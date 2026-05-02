@@ -32,7 +32,7 @@ A revolutionary, AI-powered educational platform designed to guide students thro
 ![Dashboard](dashboard.png)
 
 ### Result Page
-![Result](result.png)
+![Result](results.png)
 
 ---
 ## ✨ Core Features
