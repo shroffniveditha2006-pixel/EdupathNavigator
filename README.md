@@ -75,8 +75,8 @@ Follow these steps to run the application locally.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/SIH-FINAL-IMPS-main.git
-cd SIH-FINAL-IMPS-main
+git clone https://github.com/your-username/EdupathNavigator.git
+cd EdupathNavigator
 ```
 
 ### 2. Install dependencies
@@ -107,11 +107,11 @@ Open [http://localhost:9002](http://localhost:9002) in your browser to see the a
 ---
 ## 🧠 My Contribution
 
-- Developed responsive frontend using React and Next.js
-- Worked on backend integration and API connectivity
-- Collaborated with team members across modules (AI, backend, UI)
-- Contributed to feature implementation, debugging, and testing
-- Played a key role in integrating different components into a working system
+- Developed responsive and user-friendly frontend using React and Next.js  
+- Implemented backend integration and API connectivity  
+- Collaborated across AI, backend, and UI modules  
+- Contributed to feature development, debugging, and testing  
+- Played a key role in integrating multiple components into a complete working system  
 ---
 
 ## 🤝 The Team
