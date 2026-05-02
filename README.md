@@ -26,13 +26,13 @@ A revolutionary, AI-powered educational platform designed to guide students thro
 ## 📸 Screenshots
 
 ### Home Page
-![Home](home.png)
+![Home](home.png.jpeg)
 
 ### Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.jpeg)
 
 ### Result Page
-![Result](results.png)
+![Result](results.png.jpeg)
 
 ---
 ## ✨ Core Features
