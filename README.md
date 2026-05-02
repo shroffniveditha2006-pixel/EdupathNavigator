@@ -23,7 +23,18 @@ A revolutionary, AI-powered educational platform designed to guide students thro
 **EduPath Navigator** is an all-in-one educational guidance system built to help students make informed career choices. Conceived and developed for the **Smart India Hackathon (SIH)**—where it emerged as the winning solution—it leverages state-of-the-art AI (Google Genkit), beautiful user interfaces, and an extensive database of educational institutions to transform how students approach their future.
 
 ---
+## 📸 Screenshots
 
+### Home Page
+![Home](home.png)
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Result Page
+![Result](result.png)
+
+---
 ## ✨ Core Features
 
 *   🧠 **AI-Powered Aptitude Quiz & Stream Suggestion:** An intelligent quiz assessing students' interests and skills, suggesting the most suitable academic streams tailored to their unique profile.
