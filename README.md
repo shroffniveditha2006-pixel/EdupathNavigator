@@ -12,7 +12,7 @@
 
 A revolutionary, AI-powered educational platform designed to guide students through the complex journey from school to their dream careers.
 
-[Explore Lead Developer Portfolio](https://rajeswar.tech)
+
 
 </div>
 
